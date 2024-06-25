@@ -18,7 +18,7 @@ The Email Simulator is a Python-based tool designed to simulate the sending and 
 # Installation
 To install the Email Simulator, follow these steps:
 1. Clone the repository:
-   - git clone https://github.com/ymogos/Coding_Task.git
+   - git clone https://github.com/ymogos/coding_task.git
 2. Navigate to the project directory:
   -cd email-simulator
 
